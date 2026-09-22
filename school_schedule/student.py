@@ -19,5 +19,5 @@ class Student:
             f"enrolled in {self.get_num_classes()} classes: "
             f"{self.display_classes()}")
         
-        
+    
     
